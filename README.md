@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkankhan Pathan</h1>
-<h3 align="center">AI & Full-Stack Developer | Python Enthusiast | Dreamer Building</h3>
+<h3 align="center">AI & Machine Learning | Python Enthusiast | Dreamer Building</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arkankhan001&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
@@ -11,8 +11,8 @@
 
 - 🚀 I’m currently working on an **AutoML platform** that automates feature engineering & model training  
 - 🧠 I'm mastering **AI/ML, full-stack dev, and startup strategy**  
-- 📊 Built ML apps like Crop Recommender, Climate Analysis, and AutoML Platform  
-- 💬 Ask me about **Python, Django, React, ML, APIs**  
+- 📊 Built ML apps like Crop Recommender, Climate Analysis, Fraud Detection System  
+- 💬 Ask me about **Python, ML, Django, APIs**  
 - 🎯 Vision: **AI-powered solutions made in Bharat for the world**  
 - 📫 Reach me at: **arkankhanpathan008@gmail.com**
 
@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,flutter,html,css,js,bootstrap,tailwind,php,laravel,sqlite,mysql,postgres,firebase,git,github,vscode,postman,nginx,numpy,pandas,matplotlib,plotly,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,js,php,sqlite,mysql,git,github,postman,numpy,pandas,matplotlib,plotly,scikit-learn,streamlit" />
 </p>
 
 ---
